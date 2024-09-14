@@ -1,0 +1,24 @@
+{
+  "originHash" : "09b6c13b43d27fc0897997a4fe31a16ca95d195b8e8039e82c20ae5143371915",
+  "pins" : [
+    {
+      "identity" : "assetpluginlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ratnesh-jain/AssetPluginLibrary",
+      "state" : {
+        "revision" : "9351d104492750de73e9eccf404e3840dfb6ad78",
+        "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "swiftui-fetching-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ratnesh-jain/swiftui-fetching-view",
+      "state" : {
+        "revision" : "3128b06f2b819b9f444d56077a1fec20375cc35c",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
