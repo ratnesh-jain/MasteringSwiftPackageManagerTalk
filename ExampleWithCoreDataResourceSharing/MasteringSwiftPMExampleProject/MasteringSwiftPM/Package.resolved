@@ -1,0 +1,24 @@
+{
+  "originHash" : "6fee1b5949f16c6fc8a17a982d43cf2f3d0c617d4f437bf0a8d9aac6063db32c",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "assetpluginlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ratnesh-jain/AssetPluginLibrary",
+      "state" : {
+        "revision" : "9351d104492750de73e9eccf404e3840dfb6ad78",
+        "version" : "0.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
